@@ -92,5 +92,6 @@ class atm:
             print('Saldo anda tidak mencukupi.')
         atm.ulang()
 
+
 if __name__ == '__main__':
     atm.login()
