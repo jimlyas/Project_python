@@ -1,5 +1,9 @@
 from random import randint
-class tebakangka:
+
+
+class TebakAngka:
+
+    @staticmethod
     def tebak():
         acak = randint(1, 100)
         chance = 7

@@ -1,6 +1,7 @@
 import sys
 from PyQt5.QtWidgets import *
 
+
 class shortcut(QWidget):
     def __init__(self):
         super().__init__()
@@ -84,6 +85,7 @@ class shortcut(QWidget):
         self.entry1.clear()
         self.entry2.clear()
         self.hasil.clear()
+
 
 if __name__ == '__main__':
     a = QApplication(sys.argv)

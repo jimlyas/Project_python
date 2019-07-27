@@ -2,13 +2,14 @@ import sys
 from PyQt5.QtGui import QFont
 from PyQt5.QtWidgets import *
 
+
 class textHTML(QWidget):
     def __init__(self):
         super().__init__()
         self.setupUi()
 
     def setupUi(self):
-        self.resize(300,150)
+        self.resize(300, 150)
         self.move(QDesktopWidget().availableGeometry().center() - self.frameGeometry().center())
         self.setWindowTitle('Contoh Teks')
 
@@ -33,6 +34,7 @@ class textHTML(QWidget):
         layout.addWidget(self.label2, 0, 1)
         layout.addWidget(self.button, 1, 0, 1, 2)
         self.setLayout(layout)
+
 
 if __name__ == '__main__':
     a = QApplication(sys.argv)

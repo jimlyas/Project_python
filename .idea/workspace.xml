@@ -1,14 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d78c752-47c1-4520-8d96-abb4cf5ef0d9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI/luas.py" afterDir="false" />
+    <list default="true" id="3d78c752-47c1-4520-8d96-abb4cf5ef0d9" name="Default" comment="Lastly, using Firebase SDK for Python">
       <change beforePath="$PROJECT_DIR$/.idea/belajar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/belajar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/Array(list).py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/Array(list).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/FireDataExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/firebase_example/FireDataExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/GUI.spec" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/GUI.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DASAR/atm.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/atm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/bandingangka.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/bandingangka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/GUI.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/GUI.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/out00-Analysis.toc" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/out00-Analysis.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/out00-COLLECT.toc" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/out00-COLLECT.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/out00-EXE.toc" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/out00-EXE.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/out00-PKG.toc" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/out00-PKG.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/out00-PYZ.toc" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/out00-PYZ.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/build/GUI/warnGUI.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/build/GUI/warnGUI.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/circleTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/circleTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/connectOracle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/connectOracle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/dist/GUI/GUI.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/dist/GUI/GUI.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/dist/GUI/Include/pyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/dist/GUI/Include/pyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/fileprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/fileprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/gametebakangka.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/gametebakangka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/jamtext.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/jamtext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/kotakTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/kotakTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/nilaiRata.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/nilaiRata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/operasimatematika.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/operasimatematika.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/persegipanjang.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/persegipanjang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/services.json" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/firebase_example/services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASAR/umur.py" beforeDir="false" afterPath="$PROJECT_DIR$/DASAR/umur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/bukudua.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/bukudua.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/out00-Analysis.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/out00-Analysis.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/out00-COLLECT.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/out00-COLLECT.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/out00-EXE.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/out00-EXE.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/out00-PKG.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/out00-PKG.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/out00-PYZ.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/out00-PYZ.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/bukudua/warnbukudua.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/bukudua/warnbukudua.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/editor.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/editor.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/out00-Analysis.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/out00-Analysis.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/out00-COLLECT.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/out00-COLLECT.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/out00-EXE.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/out00-EXE.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/out00-PKG.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/out00-PKG.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/out00-PYZ.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/out00-PYZ.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/editor/warneditor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/editor/warneditor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/music.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/music.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/out00-Analysis.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/out00-Analysis.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/out00-COLLECT.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/out00-COLLECT.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/out00-EXE.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/out00-EXE.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/out00-PKG.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/out00-PKG.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/out00-PYZ.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/out00-PYZ.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/warnmusic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/warnmusic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/music/xref-music.html" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/music/xref-music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/out00-Analysis.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/out00-Analysis.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/out00-COLLECT.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/out00-COLLECT.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/out00-EXE.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/out00-EXE.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/out00-PKG.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/out00-PKG.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/out00-PYZ.toc" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/out00-PYZ.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/video.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/video.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/build/video/warnvideo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/build/video/warnvideo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/bukudua.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/bukudua.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/bukudua.spec" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/bukudua.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/bukusatu.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/bukusatu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/choice.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/choice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/cobaan.spec" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/cobaan.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dialog.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/bukudua/Include/pyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/bukudua/Include/pyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/bukudua/bukudua.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/bukudua/bukudua.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/editor/Include/pyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/editor/Include/pyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/editor/editor.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/editor/editor.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/music/Include/pyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/music/Include/pyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/music/music.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/music/music.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/nama/Include/pyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/nama/Include/pyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/nama/nama.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/nama/nama.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/video/Include/pyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/video/Include/pyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/dist/video/video.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/dist/video/video.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/editor.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/editor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/editor.spec" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/editor.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/eventQLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/eventQLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/kalkulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/kalkulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/kirimSMS.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/kirimSMS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/luas.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/luas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GUI/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/music.spec" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/music.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/nama.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/nama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/nama.spec" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/nama.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/shortcut.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/shortcut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/textHTML.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/textHTML.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/video.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/video.spec" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/video.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/dasar/kedua.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/dasar/kedua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB/dasar/percobaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB/dasar/percobaan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.spec" beforeDir="false" afterPath="$PROJECT_DIR$/music.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.4.egg/EGG-INFO/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.4.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.4-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.4-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.4-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.4-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,34 +129,6 @@
   <component name="FavoritesManager">
     <favorites_list name="belajar" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GUI/music.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="196" selection-start-line="196" selection-end-line="196" selection-end-column="26" />
-              <folding>
-                <element signature="e#21#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DASAR/FireDataExample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -82,74 +150,26 @@
       <find>move</find>
       <find>centr</find>
       <find>CTRL+O</find>
+      <find>table</find>
+      <find>con</find>
+      <find>con.</find>
+      <find>Utama.ter</find>
+      <find>teri</find>
+      <find>terindeks</find>
+      <find>print</find>
+      <find>pause at</find>
+      <find>report</find>
+      <find>lambda</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/DASAR/jamtext.py" />
-        <option value="$PROJECT_DIR$/DASAR/operasimatematika.py" />
-        <option value="$PROJECT_DIR$/DASAR/__init__.py" />
-        <option value="$PROJECT_DIR$/DASAR/Array(list).py" />
-        <option value="$PROJECT_DIR$/DASAR/fileprocess.py" />
-        <option value="$PROJECT_DIR$/GUI/textTHML.py" />
-        <option value="$PROJECT_DIR$/GUI/isend.py" />
-        <option value="$PROJECT_DIR$/GUI/edittedlineedit.py" />
-        <option value="$PROJECT_DIR$/GUI/iseng.py" />
-        <option value="$PROJECT_DIR$/GUI/1buku.py" />
-        <option value="$PROJECT_DIR$/GUI/buku2.py" />
-        <option value="$PROJECT_DIR$/GUI/buku1.py" />
-        <option value="$PROJECT_DIR$/DASAR/persegipanjang.py" />
-        <option value="$PROJECT_DIR$/DASAR/gametebakangka.py" />
-        <option value="$PROJECT_DIR$/DASAR/login.py" />
-        <option value="$PROJECT_DIR$/GUI/kalkulator.py" />
-        <option value="$PROJECT_DIR$/GUI/bukusatu.py" />
-        <option value="$PROJECT_DIR$/GUI/test.py" />
-        <option value="$PROJECT_DIR$/GUI/kedua.py" />
-        <option value="$PROJECT_DIR$/GUI/radiocheck.py" />
-        <option value="$PROJECT_DIR$/GUI/choice.py" />
-        <option value="$PROJECT_DIR$/GUI/copyan.py" />
-        <option value="$PROJECT_DIR$/GUI/shortcut.py" />
-        <option value="$PROJECT_DIR$/GUI/browser.py" />
-        <option value="$PROJECT_DIR$/GUI/editor.py" />
-        <option value="$PROJECT_DIR$/GUI/video.py" />
-        <option value="$PROJECT_DIR$/GUI/textHTML.py" />
-        <option value="$PROJECT_DIR$/WEB/percobaan.html" />
-        <option value="$PROJECT_DIR$/WEB/kedua.html" />
-        <option value="$PROJECT_DIR$/WEB/php/htmlkephp.html" />
-        <option value="$PROJECT_DIR$/WEB/dasar/baru.html" />
-        <option value="$PROJECT_DIR$/WEB/dasar/kedua.html" />
-        <option value="$PROJECT_DIR$/WEB/dasar/percobaan.html" />
-        <option value="$PROJECT_DIR$/DASAR/connectOracle.py" />
-        <option value="$PROJECT_DIR$/DASAR/GUI.py" />
-        <option value="$PROJECT_DIR$/GUI/bukudua.py" />
-        <option value="$PROJECT_DIR$/GUI/login.py" />
-        <option value="$PROJECT_DIR$/WEB/dasar/coba.py" />
-        <option value="$PROJECT_DIR$/GUI/cobaan.py" />
-        <option value="$PROJECT_DIR$/GUI/cobaan/dicoba.py" />
-        <option value="$PROJECT_DIR$/GUI/cobaan/setup.py" />
-        <option value="$PROJECT_DIR$/GUI/dialog.py" />
-        <option value="$PROJECT_DIR$/GUI/kirimSMS.py" />
-        <option value="$PROJECT_DIR$/DASAR/kotakTurtle.py" />
-        <option value="$PROJECT_DIR$/GUI/nama.py" />
-        <option value="$PROJECT_DIR$/DASAR/circleTurtle.py" />
-        <option value="$PROJECT_DIR$/DASAR/nilaiRata.py" />
-        <option value="$PROJECT_DIR$/GUI/music.py" />
-        <option value="$PROJECT_DIR$/GUI/luas.py" />
-        <option value="$PROJECT_DIR$/DASAR/atm.py" />
-        <option value="$PROJECT_DIR$/DASAR/FireDataExample.py" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+    <option name="width" value="1920" />
+    <option name="height" value="1032" />
   </component>
+  <component name="ProjectId" id="1ObaZ6YB3bUiclvEEnS0kvohowm" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -170,50 +190,32 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="belajar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="belajar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="belajar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="belajar" type="462c0819:PsiDirectoryNode" />
-              <item name="DASAR" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="gui&#9;FILE&#9;file://D:/KODINGAN GUE/PythonProjects/belajar/DASAR/GUI.py&#10;for&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DASAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\KODINGAN_GUE\PythonProjects\belajar\DASAR\firebase_example" />
+      <recent name="D:\KODINGAN GUE\PythonProjects\belajar\WEB\dasar" />
+      <recent name="D:\KODINGAN GUE\PythonProjects\belajar\DASAR" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://35.240.253.87:8069/web" />
+      <recent name="http://35.240.253.87:8069" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\KODINGAN_GUE\PythonProjects\belajar\DASAR" />
       <recent name="D:\KODINGAN_GUE\PythonProjects\belajar\GUI" />
+      <recent name="D:\KODINGAN_GUE\PythonProjects\belajar\DASAR" />
       <recent name="D:\KODINGAN GUE\PythonProjects\belajar\WEB\dasar" />
       <recent name="D:\KODINGAN GUE\PythonProjects\belajar\GUI" />
       <recent name="D:\KODINGAN GUE\PythonProjects\belajar\WEB" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\KODINGAN GUE\PythonProjects\belajar\WEB\dasar" />
-      <recent name="D:\KODINGAN GUE\PythonProjects\belajar\DASAR" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,8 +230,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FireDataExample">
-    <configuration name="FireDataExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.table">
+    <configuration name="dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="belajar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\KODINGAN_GUE\PythonProjects\belajar\GUI\table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gametebakangka" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,51 +266,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DASAR/FireDataExample.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="browser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="belajar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/browser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="luas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="belajar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/luas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DASAR/gametebakangka.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nilaiRata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,12 +305,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DASAR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DASAR/nilaiRata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="belajar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/video.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +357,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.dialog" />
+      <item itemvalue="Python.table" />
       <item itemvalue="Python.music" />
-      <item itemvalue="Python.nilaiRata" />
-      <item itemvalue="Python.browser" />
-      <item itemvalue="Python.luas" />
-      <item itemvalue="Python.FireDataExample" />
+      <item itemvalue="Python.video" />
+      <item itemvalue="Python.gametebakangka" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FireDataExample" />
-        <item itemvalue="Python.luas" />
+        <item itemvalue="Python.table" />
         <item itemvalue="Python.music" />
-        <item itemvalue="Python.browser" />
-        <item itemvalue="Python.nilaiRata" />
+        <item itemvalue="Python.gametebakangka" />
+        <item itemvalue="Python.video" />
+        <item itemvalue="Python.dialog" />
       </list>
     </recent_temporary>
   </component>
@@ -383,8 +385,29 @@
       <updated>1495507077621</updated>
       <workItem from="1555089884126" duration="868000" />
       <workItem from="1555090805509" duration="399000" />
-      <workItem from="1555091301794" duration="6232000" />
+      <workItem from="1555091301794" duration="6407000" />
+      <workItem from="1555125340997" duration="2901000" />
+      <workItem from="1555135721429" duration="9470000" />
+      <workItem from="1555329291005" duration="3119000" />
+      <workItem from="1555737863174" duration="1297000" />
+      <workItem from="1555779464735" duration="302000" />
+      <workItem from="1555780021038" duration="1346000" />
+      <workItem from="1555854268269" duration="2279000" />
+      <workItem from="1555905278627" duration="162000" />
+      <workItem from="1557148691985" duration="522000" />
+      <workItem from="1557304569760" duration="848000" />
+      <workItem from="1562344609880" duration="250000" />
+      <workItem from="1562345169032" duration="610000" />
+      <workItem from="1564248816093" duration="527000" />
     </task>
+    <task id="LOCAL-00001" summary="Lastly, using Firebase SDK for Python">
+      <created>1555097630274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555097630274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -404,9 +427,6 @@
       <configuration name="Unittests in test.py" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7499000" />
-  </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -416,321 +436,54 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4805492" visible="true" weight="0.16639742" />
-      <window_info id="Structure" order="1" weight="0.1913767" />
-      <window_info id="Favorites" order="2" sideWeight="0.5194508" side_tool="true" weight="0.14220877" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3280142" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.35752213" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39823008" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32819906" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.31398106" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3280142" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49791667" visible="true" weight="0.74513274" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32843137" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
-      <window_info anchor="right" id="Data View" order="3" weight="0.32972974" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.32983023" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32983023" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/belajar$music.coverage" NAME="music Coverage Results" MODIFIED="1555091685839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
-    <SUITE FILE_PATH="coverage/belajar$luas.coverage" NAME="luas Coverage Results" MODIFIED="1555091746451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
-    <SUITE FILE_PATH="coverage/belajar$FireDataExample.coverage" NAME="FireDataExample Coverage Results" MODIFIED="1555097543941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DASAR" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DASAR/umur.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/Python-Logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/eventQLine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/editor.spec">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/textHTML.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/xampp/htdocs/belajar/atom.php" />
-    <entry file="file://$PROJECT_DIR$/WEB/php/htmlkephp.html" />
-    <entry file="file://$PROJECT_DIR$/DASAR/icon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/code.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/icco.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB/dasar/baru.html" />
-    <entry file="file://$PROJECT_DIR$/WEB/dasar/kedua.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/bukudua.spec">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/shortcut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/connectOracle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/kalkulator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1652" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/editor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2559" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/bukusatu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/Array(list).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB/dasar/coba.py" />
-    <entry file="file://$PROJECT_DIR$/GUI/cobaan.py" />
-    <entry file="file://$PROJECT_DIR$/GUI/cobaan/setup.py" />
-    <entry file="file://$PROJECT_DIR$/GUI/cobaan/dicoba.py" />
-    <entry file="file://$PROJECT_DIR$/GUI/kirimSMS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/bukudua.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/kotakTurtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/circleTurtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB/dasar/percobaan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/nama.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/dialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/musicc.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/nilaiRata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/luas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="196" selection-start-line="196" selection-end-line="196" selection-end-column="26" />
-          <folding>
-            <element signature="e#21#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/firebase_admin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#613#628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/firebase_admin/credentials.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
-          <folding>
-            <element signature="e#611#629#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/services.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/firebase_admin/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/firebase_admin/_http_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/bandingangka.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/fileprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/gametebakangka.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/GUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/pyfirebase/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/firebase/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/atm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DASAR/FireDataExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lastly, using Firebase SDK for Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lastly, using Firebase SDK for Python" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/belajar$textHTML.coverage" NAME="textHTML Coverage Results" MODIFIED="1555127545306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$choice.coverage" NAME="choice Coverage Results" MODIFIED="1555138538669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$nama.coverage" NAME="nama Coverage Results" MODIFIED="1555138523281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$video.coverage" NAME="video Coverage Results" MODIFIED="1555334684091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$table.coverage" NAME="table Coverage Results" MODIFIED="1564249216561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$FireDataExample.coverage" NAME="FireDataExample Coverage Results" MODIFIED="1555136347110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DASAR/firebase_example" />
+    <SUITE FILE_PATH="coverage/belajar$shortcut.coverage" NAME="shortcut Coverage Results" MODIFIED="1555135858398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$bukudua.coverage" NAME="bukudua Coverage Results" MODIFIED="1555127375591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$music.coverage" NAME="music Coverage Results" MODIFIED="1564249002812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$gametebakangka.coverage" NAME="gametebakangka Coverage Results" MODIFIED="1555855586971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DASAR" />
+    <SUITE FILE_PATH="coverage/belajar$dialog.coverage" NAME="dialog Coverage Results" MODIFIED="1555139555561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$luas.coverage" NAME="luas Coverage Results" MODIFIED="1555091746451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$bukusatu.coverage" NAME="bukusatu Coverage Results" MODIFIED="1555125797224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/belajar$browser.coverage" NAME="browser Coverage Results" MODIFIED="1555138561592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
   </component>
 </project>

@@ -8,6 +8,8 @@ from PyQt5.QtWidgets import *
 
 
 class Music(QWidget):
+
+    # Class Constructor
     def __init__(self):
         super().__init__()
         self.pauseButton = QPushButton('Pause')
@@ -34,10 +36,12 @@ class Music(QWidget):
         menu = QMenuBar()
         menu.adjustSize()
         menu.setFixedHeight(20)
+
         # Pengaturan tampilan sub menu
         file = menu.addMenu('File')
         self.open.setShortcut('CTRL+O')
-        self.open.triggered.connect(self.openfile)
+        # CONTOH : bagaimana menggunakan parameter pada slot
+        self.open.triggered.connect(lambda: self.openfile('Opening File Dialog'))
         file.addAction(self.open)
 
         # Pengaturan tampilan slider dan judul dari player
@@ -67,7 +71,7 @@ class Music(QWidget):
         hb.addWidget(self.nextButton)
 
         # Pengaturan tampilan list player
-        self.list.setSpacing(10)
+        self.list.setSpacing(5)
         self.list.mouseDoubleClickEvent = lambda event: self.listclick()
 
         # Pengaturan Layout dari widgets
@@ -107,9 +111,10 @@ class Music(QWidget):
             self.pauseButton.setEnabled(False)
             self.stopButton.setEnabled(False)
 
-    # noinspection PyCallByClass
-    def openfile(self):
-        filename = QFileDialog.getOpenFileNames(self, 'Open File', 'D:\\', 'MP3 Files (*.mp3)')
+    # noinspection PyCallByClass,PyTypeChecker
+    def openfile(self, text):
+        print(text)
+        filename = QFileDialog.getOpenFileNames(self, 'Open File', '', 'MP3 Files (*.mp3)')
         if not filename[0]: return
         for index in range(len(filename[0])):
             self.filename.append(filename[0][index])
@@ -197,6 +202,6 @@ class Music(QWidget):
 if __name__ == '__main__':
     a = QApplication(sys.argv)
     # noinspection PyCallByClass
-    a.setStyle(QStyleFactory.create('Windows'))
+    # a.setStyle(QStyleFactory.create('Windows'))
     b = Music()
     a.exec_()

@@ -14,6 +14,13 @@
         </list>
       </option>
     </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="PyQt5" />
+        </list>
+      </option>
+    </inspection_tool>
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredIdentifiers">
         <list>
@@ -23,6 +30,9 @@
           <option value="PyQt5.QtWidgets.sliderMoved.connect" />
           <option value="PyQt5.QtMultimedia.mediaStatusChanged.connect" />
           <option value="PyQt5.QtWidgets.triggered.connect" />
+          <option value="object.item" />
+          <option value="object.items" />
+          <option value="PyQt5.QtCore.pyqtBoundSignal.connect" />
         </list>
       </option>
     </inspection_tool>

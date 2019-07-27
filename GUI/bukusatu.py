@@ -1,22 +1,23 @@
 from PyQt5.QtWidgets import *
 
-class bukusatu(QDialog):
+
+class BukuSatu(QDialog):
     def __init__(self):
         super().__init__()
+        self.Entrybuku = QLineEdit()
+        self.Entrybuku.setPlaceholderText('Masukkan nama buku')
+        self.label2 = QLabel('Nama Buku')
+        self.Entrynama = QLineEdit()
+        self.Entrynama.setPlaceholderText('Masukkan nama penulis')
+        self.label1 = QLabel('Nama Penulis')
+        self.Cancelbutton = QPushButton('Batal')
+        self.Okbutton = QPushButton('None')
         self.setupui()
 
     def setupui(self):
-        self.setFixedSize(300, 100)
+        self.setFixedSize(400, 200)
         self.move(QDesktopWidget().availableGeometry().center() - self.frameGeometry().center())
         self.setWindowTitle('Form Data')
-
-        self.Okbutton = QPushButton('None')
-        self.Cancelbutton = QPushButton('Batal')
-
-        self.label1 = QLabel('Nama Penulis')
-        self.Entrynama = QLineEdit()
-        self.label2 = QLabel('Nama Buku')
-        self.Entrybuku = QLineEdit()
 
         layout = QGridLayout()
         layout.addWidget(self.label1, 0, 0)

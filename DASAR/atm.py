@@ -17,7 +17,8 @@ class atm:
         for row in atm.cur:
             if user==row[0]:
                 print('User ditemukan.')
-                atm.pin = int(row[1]); atm.saldo = int(row[2])
+                atm.pin = int(row[1])
+                atm.saldo = int(row[2])
                 ch = True
                 break
 
@@ -63,7 +64,7 @@ class atm:
             sys.exit(0)
 
     def ceksaldo(self):
-        print('Saldo anda adalah : %d'%atm.saldo+'.')
+        print('Saldo anda adalah : %d'% atm.saldo+'.')
         atm.ulang()
 
     def transfer(self):
